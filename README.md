@@ -1,2 +1,2 @@
 # Lecture-Lens
-Multi-Lingual Audio Transcriber and Text Transcript to Speech 
+Multi-Lingual Audio Transcriber and Summarizer and Text Transcript to Speech gTTS
